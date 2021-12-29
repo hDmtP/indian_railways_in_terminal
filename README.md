@@ -4,7 +4,7 @@
 
 ***see various `Trains` & `Platforms` right in your terminal***
 
-_Alert!_ : ~~It doesn't use any kind of `API`. It uses `bs4`.~~ 
+_Alert!_ : ~~It doesn't use any kind of `API`~~. It uses `bs4` on [indiarailinfo.com](https://indiarailinfo.com/). 
 
 <br>
 
