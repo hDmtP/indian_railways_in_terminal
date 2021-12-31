@@ -19,7 +19,7 @@ def main():
     mygen2 = (i for i in soup.find_all('h1', attrs = {"class":"pinkColor"}))
     for i in mygen2:
     	print(fontstyle.apply("\nQuote from a RF:", "bold/red"))
-    	print(fontstyle.apply(f"\n\t\t{i.text}", "italic/yellow"))
+    	print(fontstyle.apply(f"\n\t\t{i.text}\n\n", "italic/yellow"))
 
 if __name__ == "__main__":
     main()
