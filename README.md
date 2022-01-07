@@ -22,9 +22,11 @@ pip install -r requirements.txt
 ```
 
 ## How to run:
-> ./indian_railways.py
+> ./indiarailinfo.py
+or
+> ./indiarailinfo.py [any integer]
 ```
-./indian_railways.py
+./indiarailinfo.py
 ```
 
 You can update the repo with the following command(in case I update this repo in future)
