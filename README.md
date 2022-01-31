@@ -26,14 +26,14 @@ pip install -r requirements.txt
 
 or
 
-> ./indiarailinfo.py [any integer]
+> ./indiarailinfo.py [any option] [any digit]
 ```
 ./indiarailinfo.py
 ```
 or
 
 ```
-./indiarailinfo.py 69
+./indiarailinfo.py normal 69
 ```
 You can update the repo with the following command(in case I update this repo in future)
 >git pull
